@@ -17,8 +17,8 @@
         Powered By WIFI连接超时
       </text-link>
       |
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
+      <text-link href="https://www.liups.net/">
+        Liups233の小站
       </text-link>
     </p>
   </div>
@@ -48,8 +48,8 @@
       </text-link>
     </p>
     <p>
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
+      <text-link href="https://www.liups.net/">
+        Liups233の小站
       </text-link>
     </p>
   </div>
