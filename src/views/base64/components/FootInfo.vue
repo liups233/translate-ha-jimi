@@ -15,8 +15,8 @@
       </text-link> All Rights Reserved.
     </p>
     <p>
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
+      <text-link href="https://www.liups.net/">
+        Liups233の小站
       </text-link>
     </p>
   </div>
@@ -39,8 +39,8 @@
       </text-link> All Rights Reserved.
     </p>
     <p>
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
+      <text-link href="https://www.liups.net/">
+        Liups233の小站
       </text-link>
     </p>
   </div>
