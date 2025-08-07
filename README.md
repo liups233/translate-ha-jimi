@@ -1,5 +1,7 @@
 # translate-ha-jimi
 
+Forked from wifi504/translate-ha-jimi 
+
 哈基密语加密器 v2.0 版本
 
 > **重要提示**
